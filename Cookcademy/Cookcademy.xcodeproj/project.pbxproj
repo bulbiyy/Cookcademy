@@ -8,7 +8,6 @@
 
 /* Begin PBXFileReference section */
 		9B1C047B2E34B91F004D0A6C /* Cookcademy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cookcademy.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B1C04942E34CDC1004D0A6C /* Cookcademy.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Cookcademy.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -42,13 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				9B1C047B2E34B91F004D0A6C /* Cookcademy.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		9B1C04952E34CDC1004D0A6C /* Products */ = {
-			isa = PBXGroup;
-			children = (
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -105,12 +97,6 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 9B1C047C2E34B91F004D0A6C /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 9B1C04952E34CDC1004D0A6C /* Products */;
-					ProjectRef = 9B1C04942E34CDC1004D0A6C /* Cookcademy.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				9B1C047A2E34B91F004D0A6C /* Cookcademy */,
